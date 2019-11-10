@@ -1,0 +1,13 @@
+= (1):
+      Update File
+
+Chang Hyun Park (3):
+      Initial Commit
+      Adding README.md
+      Merge branch 'master' of ssh://cabackup.kaist.ac.kr:19022/CS311-computer-organization/Project2-handout
+
+Taekyung Heo (3):
+      sample output fixed
+      sample output fixed
+      sample output fixed
+
